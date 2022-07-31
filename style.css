@@ -199,8 +199,8 @@ nav a:hover,
     fill: #ffffff;
 }
 /* end nums section style */
-._30rem {
-    height: 30rem;
+.img {
+    width: 100%;
 }
 
 /* footer */
